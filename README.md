@@ -46,3 +46,11 @@ Start the Client
   cd frontend
   npm start
 ```
+# Features
+
+### User Authenticaton
+![to use](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/45b686fd-4dcc-4a96-b581-28dbb1f749c8)
+![try second](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/532840a8-103d-4d1b-9bfe-b132c6cd7233)
+
+
+
