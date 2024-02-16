@@ -49,8 +49,9 @@ Start the Client
 # Features
 
 ### User Authenticaton
-![to use](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/45b686fd-4dcc-4a96-b581-28dbb1f749c8)
-![try second](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/532840a8-103d-4d1b-9bfe-b132c6cd7233)
+![Auth1](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/c1deb20a-427a-4289-a11d-4f5a2c1194c3)
+![Auth2](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/a07ea9e9-caea-42eb-9f67-0465c8694e0a)
+
 
 
 
