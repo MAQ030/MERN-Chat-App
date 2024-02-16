@@ -52,6 +52,8 @@ Start the Client
 ![Auth1](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/c1deb20a-427a-4289-a11d-4f5a2c1194c3)
 ![Auth2](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/a07ea9e9-caea-42eb-9f67-0465c8694e0a)
 
+### Direct Conversation
+![One-to-One](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/921b4e81-d7ee-429a-ba12-c35821ea9d5f)
 
 
 
