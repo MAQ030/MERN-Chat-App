@@ -70,5 +70,8 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/80bc9174-b0b7-4b73-8ad1
 ### Real-Time Notifications 
 ![Notfi](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/e4f4f0ff-af0d-4eef-a8e9-39906445554e)
 
+### View Another User's Profile
+![Profile](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/3cd8aa9f-ed1a-4cee-be06-d77096974577)
+
 
 
