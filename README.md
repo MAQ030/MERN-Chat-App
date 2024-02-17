@@ -75,4 +75,4 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/80bc9174-b0b7-4b73-8ad1
 
 ### Developed By
 
-- [MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
+[MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
