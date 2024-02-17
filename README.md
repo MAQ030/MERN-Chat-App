@@ -62,7 +62,7 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/731a3da3-61a3-40c5-939a
 ![Search_User](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/694ac0e4-6d30-4ac6-9fef-e76067988a4e)
 
 ### Create Group Chats
-https://github.com/MAQ030/MERN-Chat-App/assets/156931518/09fc4ee3-aa4d-473c-9243-872da3780e87
+![Group](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/053a3e4a-271a-461d-878a-b43100f18bc1)
 
 
 
