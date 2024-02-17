@@ -49,8 +49,8 @@ Start the Client
 # Features
 
 ### User Authenticaton
-<img src="https://github.com/MAQ030/MERN-Chat-App/assets/156931518/c1deb20a-427a-4289-a11d-4f5a2c1194c3" alt="Auth1" style="border-radius: 50%;">
-<img src="https://github.com/MAQ030/MERN-Chat-App/assets/156931518/a07ea9e9-caea-42eb-9f67-0465c8694e0a" alt="Auth2" style="border-radius: 50%;">
+![Auth1](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/c1deb20a-427a-4289-a11d-4f5a2c1194c3)
+![Auth2](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/a07ea9e9-caea-42eb-9f67-0465c8694e0a)
 
 ### Direct Conversation
 ![One-to-One](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/49b7ad17-4627-4ac2-86ca-855c39d1fb0b)
@@ -73,5 +73,6 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/80bc9174-b0b7-4b73-8ad1
 ### View Another User's Profile
 ![Profile](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/3cd8aa9f-ed1a-4cee-be06-d77096974577)
 
+##Made by
 
-
+- [MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
