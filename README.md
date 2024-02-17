@@ -73,6 +73,6 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/80bc9174-b0b7-4b73-8ad1
 ### View Another User's Profile
 ![Profile](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/3cd8aa9f-ed1a-4cee-be06-d77096974577)
 
-### Made by
+### Developed By
 
 - [MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
