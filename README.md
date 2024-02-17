@@ -53,7 +53,7 @@ Start the Client
 ![Auth2](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/a07ea9e9-caea-42eb-9f67-0465c8694e0a)
 
 ### Direct Conversation
-![One-to-One](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/921b4e81-d7ee-429a-ba12-c35821ea9d5f)
+![One-to-One](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/49b7ad17-4627-4ac2-86ca-855c39d1fb0b)
 
 ### Live conversations with real-time typing indicators
 https://github.com/MAQ030/MERN-Chat-App/assets/156931518/731a3da3-61a3-40c5-939a-d8591ecdf21b
