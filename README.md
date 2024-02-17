@@ -67,5 +67,8 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/731a3da3-61a3-40c5-939a
 ### Add or Remove users from Group Chats
 ![Group_Func](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/540a0e43-f203-4f57-94c5-3bd4a74fe20f)
 
+### Real-Time Notifications 
+![Notfi](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/e4f4f0ff-af0d-4eef-a8e9-39906445554e)
+
 
 
