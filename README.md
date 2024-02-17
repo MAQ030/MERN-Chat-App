@@ -55,5 +55,8 @@ Start the Client
 ### Direct Conversation
 ![One-to-One](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/921b4e81-d7ee-429a-ba12-c35821ea9d5f)
 
+### Real Time Chatting with Typing indicators
+https://github.com/MAQ030/MERN-Chat-App/assets/156931518/1ce6b64c-3614-4844-8531-956cbef7189b
+
 
 
