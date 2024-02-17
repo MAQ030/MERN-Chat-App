@@ -64,6 +64,8 @@ https://github.com/MAQ030/MERN-Chat-App/assets/156931518/731a3da3-61a3-40c5-939a
 ### Create Group Chats
 ![Group](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/053a3e4a-271a-461d-878a-b43100f18bc1)
 
+### Add or Remove users from group
+![Group_Func](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/540a0e43-f203-4f57-94c5-3bd4a74fe20f)
 
 
 
