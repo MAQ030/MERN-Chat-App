@@ -58,6 +58,10 @@ Start the Client
 ### Live conversations with real-time typing indicators
 https://github.com/MAQ030/MERN-Chat-App/assets/156931518/731a3da3-61a3-40c5-939a-d8591ecdf21b
 
+### Create Group Chats
+https://github.com/MAQ030/MERN-Chat-App/assets/156931518/09fc4ee3-aa4d-473c-9243-872da3780e87
+
+
 ### Search Users
 ![Search_User](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/694ac0e4-6d30-4ac6-9fef-e76067988a4e)
 
