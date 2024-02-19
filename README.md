@@ -14,7 +14,7 @@ Welcome to Chatter Box, a full-stack chat application designed for efficient rea
 Clone the project
 
 ```bash
-  git clone git clone https://github.com/MAQ030/MERN-Chat-App.git
+  git clone: https://github.com/MAQ030/MERN-Chat-App.git
 ```
 
 Go to the project directory
